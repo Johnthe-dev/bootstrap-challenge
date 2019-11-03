@@ -35,16 +35,13 @@ body {
 }
 
 #bottom .col-lg-3 {
-	border-radius: 8px;
 	margin-top: 15px;
 	text-align: center;
 	padding: 5px;
 }
 
 #bottom .col-lg-3 p {
-	border: darkslategray solid 2px;
 	margin: 2rem 3rem;
-	border-radius: 8px;
 	padding: 1rem;
 }
 
@@ -55,8 +52,6 @@ body {
 
 #Desktop {
 	display: block;
-	border: darkslategray solid 1px;
-	border-radius: 8px;
 }
 
 #mobile {
@@ -69,7 +64,5 @@ body {
 	}
 	#mobile {
 		display: block;
-		border: darkslategray solid 1px;
-		border-radius: 8px;
 	}
 }
