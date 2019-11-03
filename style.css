@@ -16,11 +16,7 @@
 #post p {
 	text-align: left;
 }
-#header {
-	border: darkslategray solid 1px;
-	border-radius: 8px;
-}
-#header .row {
+#Desktop .row {
 	align-items: center;
 	padding: 10px;
 }
@@ -74,6 +70,8 @@ body {
 
 #Desktop {
 	display: block;
+	border: darkslategray solid 1px;
+	border-radius: 8px;
 }
 
 #mobile {
